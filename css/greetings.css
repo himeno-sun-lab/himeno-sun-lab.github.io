@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+}
+
+.subtitle2 {
+    font-size: 1.2em;
+    color: #555555;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.subtitle1 {
+    font-size: 1.2em;
+    color: #555555;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.content {
+    text-align: left;
+}
