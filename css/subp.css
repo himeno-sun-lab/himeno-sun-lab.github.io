@@ -1,0 +1,208 @@
+@font-face {
+    font-family: semi;
+    src: url(../font/KleeOne-SemiBold.ttf);
+}
+@font-face {
+    font-family: reg;
+    src: url(../font/KleeOne-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0 0 5%;
+    background-color:ghostwhite;
+}
+.header {
+    background-color: white;
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    right: 0; */
+}
+
+.psg {
+    margin: 0 15%;
+    padding: 3% 4%;
+    background-color: white;
+}
+.bottom {
+    margin: 0 15%;
+}
+
+.univ {
+    font-family: 'reg';
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+    padding: 5px 0;
+}
+.univ>a {
+    text-decoration: none;
+    color: black;
+}
+/* a:link{
+    color: blueviolet;
+}
+a:visited {
+    color: blueviolet;
+} */
+
+.title {
+    font-family: 'semi';
+    font-size: 20px;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: 'semi';
+    font-size: 28px;
+    text-align: center;
+    padding: 20px;
+}
+
+.navi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'semi';
+    text-align: center;
+    margin: 0 20%;
+}
+.main {
+    font-size: 20px;
+    width: 160px;
+    height: 60px;
+    line-height: 60px;
+    position: relative;
+    overflow: hidden;
+}
+.main:hover {
+    background-color: rgb(241, 241, 241);
+    overflow: visible;
+}
+.sp {
+    font-family: 'reg';
+    font-size: 20px;
+    color: rgb(197, 197, 197);
+    width: 4px;
+    height: 60px;
+    line-height: 60px;
+}
+.sub {
+    font-size: 18px;
+    background-color: rgb(250, 253, 255);
+    position: relative;
+    z-index: 999;
+    overflow: hidden;
+}
+.sub:hover {
+    background-color: rgb(246, 250, 255);
+}
+
+.inlink {
+    color: black;
+    text-decoration: none;
+}
+.outlink {
+    color: #3b7eb9;
+}
+#himeno {
+    color: #56748e;
+    text-decoration: none;
+}
+#sun {
+    color: #56748e;
+    text-decoration: none;
+}
+.lang {
+    font-size: 20px;
+    font-family: 'semi';
+    text-align: right;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 16%;
+}
+.lang>a {
+    color: rgb(97, 150, 208);
+    text-decoration: none;
+}
+
+.cprt {
+    font-size: 14px;
+    font-family: 'reg';
+    color: gray;
+    text-align: right;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'semi';
+    font-size: 24px;
+}
+p {
+    font-family: 'reg';
+    font-size: 18px;
+}
+.pr {
+    margin: 50px 0;
+}
+.name {
+    font-family: 'semi';
+    font-size: 20px;
+}
+.prof {
+    padding: 0 20px;
+}
+.stud {
+    font-family: 'semi';
+    font-size: 20px;
+    padding: 0 20px;
+}
+.m2 {
+    margin: 30px 0;
+}
+.m1 {
+    margin: 30px 0;
+}
+.list {
+    font-family: 'semi';
+    line-height: 36px;
+    margin: 10px;
+}
+.exam {
+    font-family: 'semi';
+    font-size: 20px;
+    line-height: 40px;
+}
+.addr {
+    font-family: 'semi';
+    font-size: 20px;
+    line-height: 42px;
+    padding: 20px;
+}
+.room {
+    font-family: 'semi';
+    font-size: 18px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 20px 10px;
+    border: solid rgb(213, 213, 213);
+}
+.room td {
+    border: solid rgb(213, 213, 213);
+    padding: 5px 30px;
+}
+.s>td {
+    background-color: #e8f2f264;
+}
+.g>td {
+    background-color: rgba(216, 222, 225, 0.353);
+}
+.w>td {
+    background-color: white;
+}
+.route {
+    font-family: 'semi';
+    font-size: 20px;
+    line-height: 48px;
+}
