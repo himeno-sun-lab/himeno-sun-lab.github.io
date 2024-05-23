@@ -1,0 +1,31 @@
+body {
+    font-family: "Arial", sans-serif; /* Adjust the font family to match the image more closely */
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+}
+.container {
+    text-align: left;
+}
+
+.bullet-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.bullet-list li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+.bullet-list li::before {
+    content: "●";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 1em;
+    color: #000000; /* Black color for the bullet point */
+    line-height: 1.6;
+}
