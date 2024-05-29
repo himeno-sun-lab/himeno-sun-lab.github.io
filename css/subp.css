@@ -173,11 +173,13 @@ p {
     line-height: 36px;
     margin: 10px;
 }
-.exam {
+
+.msg {
     font-family: 'semi';
     font-size: 20px;
     line-height: 40px;
 }
+    
 .addr {
     font-family: 'semi';
     font-size: 20px;
