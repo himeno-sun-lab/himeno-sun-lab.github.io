@@ -17,7 +17,7 @@ main:
     url: event
     weight: 40
   - name: Projects
-    url: post
+    url: projects
     weight: 15
   - name: Publications
     url: publication
