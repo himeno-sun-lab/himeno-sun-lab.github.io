@@ -1,34 +1,33 @@
 ---
 # Display name
-title: Zhe Sun
+title: Xiaowei Gu
 
 # Full name (for SEO)
-first_name: Zhe
-last_name: SUN
+first_name: Xiaowei
+last_name: GU
 
 # Username (this should match the folder name)
 authors:
-  - Sunzhe
+  - Guxiaowei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Visiting Lecturer
 
 # Organizations/Affiliations
 organizations:
-  - name: Juntendo University
+  - name: RIKEN Center for Brain Science (CBS)
     url: ''
-  - name: RIKEN RAP
+  - name: Juntendo University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Spiking Neural Network
-  - Computational Neuroscience
+  - Neuroscience
 
 # education:
 #   courses:
@@ -74,6 +73,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Zhe SUN is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xiaowei Gu is a researcher of neuroscience at RIKEN CBS. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

@@ -1,34 +1,35 @@
 ---
 # Display name
-title: Zhe Sun
+title: Chao Li
 
 # Full name (for SEO)
-first_name: Zhe
-last_name: SUN
+first_name: Chao
+last_name: LI
 
 # Username (this should match the folder name)
 authors:
-  - Sunzhe
+  - Lichao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Juntendo University
+  - name: RIKEN Center for Advanced Intelligence Project (AIP)
     url: ''
-  - name: RIKEN RAP
+  - name: Juntendo University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Spiking Neural Network
-  - Computational Neuroscience
+  - GAIT
+  - High Performance Computing
+  - Fluiddynamics Simulation
 
 # education:
 #   courses:
@@ -74,6 +75,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Zhe SUN is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chao LI is a researcher of Tensor Learning Team at RIKEN AIP. His research interests include tensor neural network, deep learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

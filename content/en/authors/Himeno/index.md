@@ -4,7 +4,7 @@ title: Ryutaro Himeno
 
 # Full name (for SEO)
 first_name: Ryutaro
-last_name: Himeno
+last_name: HIMENO
 
 # Username (this should match the folder name)
 authors:
@@ -71,7 +71,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Researchers
 ---
 
 Ryutaro Himeno is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
