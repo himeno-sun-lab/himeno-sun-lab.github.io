@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Binghua Li
+title: Haoran Li
 
 # Full name (for SEO)
-first_name: Binghua
+first_name: Haoran
 last_name: LI
 
 # Username (this should match the folder name)
 authors:
-  - Libinghua
+  - Lihaoran
 
 # Order in display
-wegiht: 30
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,19 +21,17 @@ role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Tokyo University of Agriculture and Technology
-    url: ''
-  - name: RIKEN Center for Advanced Intelligence Project (AIP)
+  - name: Nankai University
     url: ''
   - name: Juntendo University
     url: ''
+
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Medical Images Analysis
-  - Interpretable AI
-  - Deep Learning
+  - EEG Signal Processing
+  - Data Assimilation
 
 # education:
 #   courses:
@@ -51,7 +49,7 @@ interests:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+# social:
 #   - icon: envelope
 #     icon_pack: fas
 #     link: 'mailto:test@example.org'
@@ -61,17 +59,17 @@ social:
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-    # - icon: github
-    #   icon_pack: fab
-    #   link: https://github.com/gcushen
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: https://tuat-novice.github.io/vhua.github.io/
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: nkvhua@outlook.com
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,3 +77,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
+
+Zhe SUN is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
