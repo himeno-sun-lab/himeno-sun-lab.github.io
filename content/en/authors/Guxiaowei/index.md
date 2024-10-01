@@ -9,6 +9,8 @@ last_name: GU
 # Username (this should match the folder name)
 authors:
   - Guxiaowei
+# Order in display
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false

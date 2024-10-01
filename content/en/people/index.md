@@ -17,11 +17,11 @@ sections:
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.weight
       sort_ascending: true
     design:
       show_organizations: true
       show_interests: true
       show_role: true
-      show_social: true
+      show_social: false
 ---

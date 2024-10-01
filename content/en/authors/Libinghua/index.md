@@ -10,6 +10,9 @@ last_name: LI
 authors:
   - Libinghua
 
+# Order in display
+wegiht: 30
+
 # Is this the primary user of the site?
 superuser: false
 
