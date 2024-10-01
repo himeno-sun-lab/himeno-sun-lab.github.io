@@ -7,8 +7,8 @@
 
 appearance:
   mode: system
-  # theme_day: minimal
-  # theme_night:
+  theme_day: minimal
+  theme_night: classic
   font: native
   font_size: L
 
