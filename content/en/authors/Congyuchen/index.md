@@ -1,4 +1,7 @@
 ---
+# Draft
+draft: true
+
 # Display name
 title: Chao Li
 
@@ -16,20 +19,20 @@ weight: 15
 superuser: false
 
 # Role/position
-role: Visiting Researcher
+role: Research Student
 
 # Organizations/Affiliations
 organizations:
-  - name: RIKEN Center for Advanced Intelligence Project (AIP)
-    url: ''
   - name: Juntendo University
+    url: ''
+  - name: RIKEN Center for Advanced Intelligence Project (AIP)
     url: ''
 
 # Short bio (displayed in user profile at end of posts, call for students is OK)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are mainly in quantum computing and algorithm research.
 
 interests:
-  - Tensor Learning
+  - Quantum Computing
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
-Chao LI is a researcher of Tensor Learning Team at RIKEN AIP. His research interests include tensor neural network and deep learning.
+Yuchen CONG is a research student in Himeno-Sun Lab and Tensor Learning Team at RIKEN AIP. His main research interests are in quantum computer building.
