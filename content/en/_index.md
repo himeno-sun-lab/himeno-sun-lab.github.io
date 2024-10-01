@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-10-01
 type: landing
 
 sections:
@@ -14,8 +14,18 @@ sections:
       text: |
         <br>
         
-        **Himeno-Sun Lab** is been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        **Himeno-Sun Lab** concentrates on artificial intelligence and computing science and its application in medicine field, and computational neuroscience.
+        
+        And it attempts to be a center of excellence for intelligent medicine and computational neuroscience research, teaching, and practice since its founding in 2022.
+
+  - block: people
+    content:
+      title: Meet Team Leaders
+      user_group:
+        - Principal Investigators
+      sort_by: Params.weight
+      sort_ascending: true
+
   - block: collection
     content:
       title: Latest News

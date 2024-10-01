@@ -23,7 +23,7 @@ role: Assistant Professor
 organizations:
   - name: Juntendo University
     url: ''
-  - name: RIKEN RAP
+  - name: RIKEN Center for Advanced Photonics (RAP)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
