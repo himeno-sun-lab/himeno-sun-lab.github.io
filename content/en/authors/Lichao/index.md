@@ -29,9 +29,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - GAIT
-  - High Performance Computing
-  - Fluiddynamics Simulation
+  - Tensor Learning
+
 
 # education:
 #   courses:
@@ -77,6 +76,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Chao LI is a researcher of Tensor Learning Team at RIKEN AIP. His research interests include tensor neural network, deep learning.
-
-He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chao LI is a researcher of Tensor Learning Team at RIKEN AIP. His research interests include tensor neural network and deep learning.

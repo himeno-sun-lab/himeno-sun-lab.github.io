@@ -20,7 +20,7 @@ sections:
 
   - block: people
     content:
-      title: Meet Team Leaders
+      title: Team Leaders
       user_groups:
         - Principal Investigators
       sort_by: Params.weight
