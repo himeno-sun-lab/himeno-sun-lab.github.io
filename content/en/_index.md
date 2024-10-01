@@ -21,7 +21,7 @@ sections:
   - block: people
     content:
       title: Meet Team Leaders
-      user_group:
+      user_groups:
         - Principal Investigators
       sort_by: Params.weight
       sort_ascending: true
