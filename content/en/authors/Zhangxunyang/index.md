@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Ziqing Chang
+title: Xunyang Zhang
 
 # Full name (for SEO)
-first_name: Ziqing
-last_name: CHANG
+first_name: Xunyang
+last_name: ZHANG
 
 # Username (this should match the folder name)
 authors:
-  - Changziqing
+  - Zhangxunyang
 
 # Order in display
-weight: 20
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +23,7 @@ role: Master Student
 organizations:
   - name: Juntendo University
     url: ''
-  - name: RIKEN Center for Advanced Intelligence Project (AIP)
+  - name: RIKEN Center for Brain Science (CBS)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Spiking Neural Network
   - Computational Neuroscience
-  - Deep Learning
 
 # education:
 #   courses:
@@ -79,4 +78,4 @@ user_groups:
   - Students
 ---
 
-Ziqing CHANG is a master student in 1st year in the Himeno-Sun Lab.
+Jie MAO is a master student in 2nd year in the Himeno-Sun Lab.

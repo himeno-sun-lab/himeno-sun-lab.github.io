@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Ziqing Chang
+title: Minghao Wang
 
 # Full name (for SEO)
-first_name: Ziqing
-last_name: CHANG
+first_name: Minghao
+last_name: WANG
 
 # Username (this should match the folder name)
 authors:
-  - Changziqing
+  - Wangminghao
 
 # Order in display
 weight: 20
@@ -23,16 +23,16 @@ role: Master Student
 organizations:
   - name: Juntendo University
     url: ''
-  - name: RIKEN Center for Advanced Intelligence Project (AIP)
+  - name: RIKEN Center for Brain Science (CBS)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Spiking Neural Network
+  - Medical Imaging Technology
   - Computational Neuroscience
-  - Deep Learning
+  - Nonlinear Dynamics
 
 # education:
 #   courses:
@@ -70,7 +70,7 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,4 +79,4 @@ user_groups:
   - Students
 ---
 
-Ziqing CHANG is a master student in 1st year in the Himeno-Sun Lab.
+Minghao WANG is a master student in 1st year in the Himeno-Sun Lab.
