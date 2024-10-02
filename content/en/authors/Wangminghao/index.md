@@ -13,9 +13,6 @@ authors:
 # Order in display
 weight: 20
 
-# Is this the primary user of the site?
-superuser: false
-
 # Role/position
 role: Master Student
 

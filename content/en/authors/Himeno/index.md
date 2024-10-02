@@ -28,8 +28,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - GAIT
-  - High Performance Computing
+  - GAIT \n
+  - High Performance Computing \n
   - Fluiddynamics Simulation
 
 # education:
