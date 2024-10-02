@@ -78,4 +78,4 @@ user_groups:
   - Students
 ---
 
-Jie MAO is a master student in 2nd year in the Himeno-Sun Lab.
+Xunyang ZHANG is a master student in 2nd year in the Himeno-Sun Lab.
