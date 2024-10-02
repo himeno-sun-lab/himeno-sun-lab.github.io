@@ -76,4 +76,4 @@ user_groups:
   - Alumni
 ---
 
-Shurun WANG was a visiting student in Himeno-Sun Lab during his doctoral programme and now works in University of Science and Technology of China (USTC) as a postdoctoral researcher
+Shurun WANG was a visiting student in Himeno-Sun Lab during his doctoral programme and now works in University of Science and Technology of China (USTC) as a postdoctoral researcher.

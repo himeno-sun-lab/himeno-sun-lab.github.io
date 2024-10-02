@@ -11,7 +11,7 @@ authors:
   - Libinghua
 
 # Order in display
-wegiht: 30
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false
