@@ -17,7 +17,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Junior Associate Professor
 
 # Organizations/Affiliations
 organizations:
