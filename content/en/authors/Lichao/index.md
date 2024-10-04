@@ -26,10 +26,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts, call for students is OK)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantum machine learning and AI for Science.
 
 interests:
-  - Tensor Learning
+  - Quantum Machine Learning
+  - AI for Science
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,4 +64,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Chao LI is a researcher of Tensor Learning Team at RIKEN AIP. His research interests include tensor neural network and deep learning.
+Chao LI is a researcher of Tensor Learning Team at RIKEN AIP.
