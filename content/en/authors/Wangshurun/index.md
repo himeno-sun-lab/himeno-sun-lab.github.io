@@ -17,12 +17,13 @@ weight: 15
 superuser: false
 
 # Role/position
-role: Master Student
+role: Visiting Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Juntendo University
-    url: ''
+  - name: University of Science and Technology of China
+  - name: Hefei University of Technology
+
 
 
 # Short bio (displayed in user profile at end of posts)
