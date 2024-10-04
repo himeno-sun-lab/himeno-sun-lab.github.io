@@ -17,12 +17,11 @@ weight: 15
 superuser: false
 
 # Role/position
-role: Visiting Doctoral Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
   - name: University of Science and Technology of China
-  - name: Hefei University of Technology
 
 
 
