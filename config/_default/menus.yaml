@@ -7,6 +7,9 @@ main:
   - name: News
     url: post
     weight: 10
+  - name: Research
+    url: research
+    weight: 15
   - name: Projects
     url: project
     weight: 20
@@ -22,6 +25,9 @@ main:
   - name: Tour
     url: tour
     weight: 60
+  - name: Himeno Benchmark
+    url: Himeno Benchmark
+    weight: 65
   - name: Contact
     url: contact
     weight: 70
