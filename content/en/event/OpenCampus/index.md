@@ -1,5 +1,6 @@
 ---
 title: Open Day for Health Data Science in Hinode-Urayasu Campus
+draft: true
 
 event: Wowchemy Conference
 event_url: https://example.org

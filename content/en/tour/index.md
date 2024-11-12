@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Dumpling Party for 2024
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Dumpling Party 2024
+        content: 'Share your knowledge and skills in making dumplings with the group!'
         align: left
         background:
           image:
@@ -38,11 +38,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        # link:
+        #   icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Join Us
+        #   url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

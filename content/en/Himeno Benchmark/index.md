@@ -1,6 +1,7 @@
 ---
 title: Himeno Benchmark
 date: 2024/10/22
+
 ---
 
 Dr. Ryutaro Himeno, Director of the Advanced Center for Computing and Communication, has developed this benchmark to evaluate performance of incompressible fluid analysis code. This benchmark program takes measurements to proceed major loops in solving the Poisson’s equation solution using the Jacobi iteration method.
