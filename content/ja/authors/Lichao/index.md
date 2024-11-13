@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - R研究者
+  - 研究者
 ---
 
 李 超は、理化学研究所 AIP のテンソル学習チームの研究員です.
