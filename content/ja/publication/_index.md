@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 論文発表
 
 # Listing view
 view: citation
