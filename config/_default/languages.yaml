@@ -12,7 +12,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 ja:
   languageCode: ja
-#   contentDir: content/ja
+  contentDir: content/ja
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
