@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Richard HendricksさんがWowchemy賞で優勝
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Richard HendricksさんがWowchemy賞で第一位を獲得したことをお祝い申し上げます。
 
 <!--more-->
 
