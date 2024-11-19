@@ -2,32 +2,62 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+en:
+  main:
+    - name: News
+      url: en/post
+      weight: 10
+    - name: Research
+      url: en/research
+      weight: 15
+    - name: Projects
+      url: en/project
+      weight: 20
+    - name: Members
+      url: en/people
+      weight: 30
+    - name: Events
+      url: en/event
+      weight: 40
+    - name: Publications
+      url: en/publication
+      weight: 50
+    - name: Tour
+      url: en/tour
+      weight: 60
+    - name: Himeno Benchmark
+      url: en/himeno_benchmark
+      weight: 65
+    - name: Contact
+      url: en/contact
+      weight: 70
 
-main:
-  - name: News
-    url: post
-    weight: 10
-  - name: Research
-    url: research
-    weight: 15
-  - name: Projects
-    url: project
-    weight: 20
-  - name: Members
-    url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Tour
-    url: tour
-    weight: 60
-  - name: Himeno Benchmark
-    url: himeno_benchmark
-    weight: 65
-  - name: Contact
-    url: contact
-    weight: 70
+ja:
+  main:
+    - name: 記事
+      url: ja/post
+      weight: 10
+    - name: 研究テーマ
+      url: ja/research
+      weight: 15
+    - name: プロジェクト
+      url: ja/project
+      weight: 20
+    - name: メンバー
+      url: ja/people
+      weight: 30
+    - name: イベント
+      url: ja/event
+      weight: 40
+    - name: 論文
+      url: ja/publication
+      weight: 50
+    - name: ギャラリー
+      url: ja/tour
+      weight: 60
+    - name: 姫野基準
+      url: ja/himeno_benchmark
+      weight: 65
+    - name: お問い合せ
+      url: ja/contact
+      weight: 70
