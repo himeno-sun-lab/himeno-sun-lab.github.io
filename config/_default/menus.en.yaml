@@ -5,29 +5,29 @@
 
 main:
   - name: News
-    url: en/post
+    url: post
     weight: 10
   - name: Research
-    url: en/research
+    url: research
     weight: 15
   - name: Projects
-    url: en/project
+    url: project
     weight: 20
   - name: Members
-    url: en/people
+    url: people
     weight: 30
   - name: Events
-    url: en/event
+    url: event
     weight: 40
   - name: Publications
-    url: en/publication
+    url: publication
     weight: 50
   - name: Tour
-    url: en/tour
+    url: tour
     weight: 60
   - name: Himeno Benchmark
-    url: en/himeno_benchmark
+    url: himeno_benchmark
     weight: 65
   - name: Contact
-    url: en/contact
+    url: contact
     weight: 70
