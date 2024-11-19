@@ -1,0 +1,28 @@
+main:
+  - name: 記事
+    url: ja/post
+    weight: 10
+  - name: 研究テーマ
+    url: ja/research
+    weight: 15
+  - name: プロジェクト
+    url: ja/project
+    weight: 20
+  - name: メンバー
+    url: ja/people
+    weight: 30
+  - name: イベント
+    url: ja/event
+    weight: 40
+  - name: 論文
+    url: ja/publication
+    weight: 50
+  - name: ギャラリー
+    url: ja/tour
+    weight: 60
+  - name: 姫野基準
+    url: ja/himeno_benchmark
+    weight: 65
+  - name: お問い合せ
+    url: ja/contact
+    weight: 70
