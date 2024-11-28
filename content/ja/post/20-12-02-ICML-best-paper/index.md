@@ -1,6 +1,7 @@
 ---
 title: Jian YangさんとMonica Hallさんが2020年のWowchemy会議で最優秀論文賞を受賞
 date: 2020-12-02
+draft: true
 image:
   focal_point: 'top'
 ---

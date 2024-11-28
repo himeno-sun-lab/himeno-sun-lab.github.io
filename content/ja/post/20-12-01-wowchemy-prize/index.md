@@ -1,5 +1,6 @@
 ---
 title: Richard HendricksさんがWowchemy賞で優勝
+draft: true
 date: 2020-12-01
 ---
 
