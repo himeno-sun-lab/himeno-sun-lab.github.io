@@ -3,4 +3,3 @@ title: 'Kiban-B: Reliable Tensor-Network Fusion Approach to Medical Informatics:
 date: 2023-12-31
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
