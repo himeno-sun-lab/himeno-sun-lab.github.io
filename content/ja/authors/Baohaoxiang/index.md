@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 包 昊翔 ホウ・コウショウ 
+title: 包 昊翔
 draft: true
 
 # Full name (for SEO)

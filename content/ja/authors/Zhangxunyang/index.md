@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 張 洵陽 チョウ・シュンヨウ
+title: 張 洵陽
 
 # Full name (for SEO)
 first_name: 洵陽

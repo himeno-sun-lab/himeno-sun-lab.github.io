@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李 浩然 リ・ハオラン
+title: 李 浩然
 
 # Full name (for SEO)
 first_name: 浩然

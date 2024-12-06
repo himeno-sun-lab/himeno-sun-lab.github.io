@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 姫野 龍太郎 ひめの りゅうたろう
+title: 姫野 龍太郎
 
 # Full name (for SEO)
 first_name: 龍太郎

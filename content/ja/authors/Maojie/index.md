@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 毛 捷 モウ・ショウ
+title: 毛 捷
 
 # Full name (for SEO)
 first_name: 捷

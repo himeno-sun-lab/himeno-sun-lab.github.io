@@ -1,9 +1,9 @@
 ---
 # Display name
-title: コ・ショウウィ
+title: コ・ショウイ
 
 # Full name (for SEO)
-first_name: ショウウィ
+first_name: ショウイ
 last_name: コ
 
 # Username (this should match the folder name)

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 常 子慶 チャン・ジーチン
+title: 常 子慶
 
 # Full name (for SEO)
 first_name: 子慶

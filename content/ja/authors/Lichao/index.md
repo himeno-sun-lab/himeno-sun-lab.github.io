@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李 超 リ・チョウ
+title: 李 超
 
 # Full name (for SEO)
 first_name: 超

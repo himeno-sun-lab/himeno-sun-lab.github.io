@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘 芸祺 リウ・イーチー
+title: 刘 芸祺
 
 # Full name (for SEO)
 first_name: 芸祺

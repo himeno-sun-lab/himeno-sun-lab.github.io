@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孫 哲 ソン・テツ
+title: 孫 哲
 
 # Full name (for SEO)
 first_name: 哲

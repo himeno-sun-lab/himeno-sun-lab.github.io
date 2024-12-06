@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 黎 炳華 レイ・ヘイカ
+title: 黎 炳華
 
 # Full name (for SEO)
 first_name: 炳華
