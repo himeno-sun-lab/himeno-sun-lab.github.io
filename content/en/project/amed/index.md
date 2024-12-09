@@ -1,10 +1,11 @@
 ---
 title: "AMED: Functionalize Digital Brain Model by Biological Neural Data"
+summary: Digital Brain 2.0
 
 date: 2024-3-31
 ---
-
 Although the simulation of the biological brain now can fit the unconscious activity for billions of neurons, it is limited by lacking behavioral functions. 
+
 
 Being inspired by neuroscience, as the most successful design of artificial intelligence up to now, deep learning network lacks compatibility with the biological brain, which limits its explainability and future development. 
 
