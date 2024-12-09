@@ -10,7 +10,7 @@ last_name: GU
 authors:
   - Guxiaowei
 # Order in display
-weight: 20
+weight: 50
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,7 +26,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Neuroscience
@@ -75,4 +75,4 @@ user_groups:
   - Researchers
 ---
 
-Xiaowei Gu is a researcher of neuroscience at RIKEN CBS.
+Xiaowei Gu is a research scientist of neuroscience at RIKEN CBS.

@@ -11,7 +11,7 @@ authors:
   - Wangshurun
 
 # Order in display
-weight: 15
+weight: 35
 
 # Is this the primary user of the site?
 superuser: false

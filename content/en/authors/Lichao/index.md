@@ -10,7 +10,7 @@ last_name: LI
 authors:
   - Lichao
 # Order in display
-weight: 20
+weight: 50
 
 # Is this the primary user of the site?
 superuser: false

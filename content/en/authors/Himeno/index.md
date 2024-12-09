@@ -11,7 +11,7 @@ authors:
   - Himeno
 
 # Order in display
-weight: 1
+weight: 100
 
 # Is this the primary user of the site?
 superuser: false

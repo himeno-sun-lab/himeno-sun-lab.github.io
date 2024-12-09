@@ -11,7 +11,7 @@ authors:
   - Zuchong
 
 # Order in display
-weight: 15
+weight: 35
 
 # Is this the primary user of the site?
 superuser: false
@@ -75,4 +75,4 @@ user_groups:
   - Alumni
 ---
 
-Shurun WANG was a visiting student in Himeno-Sun Lab and now is a doctoral student in Nankai University.
+Chong ZU was a visiting student in Himeno-Sun Lab and now is a doctoral student in Nankai University.

@@ -11,7 +11,7 @@ authors:
   - Sunzhe
 
 # Order in display
-weight: 10
+weight: 60
 
 # Is this the primary user of the site?
 superuser: false
