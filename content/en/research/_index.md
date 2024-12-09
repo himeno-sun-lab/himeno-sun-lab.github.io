@@ -5,8 +5,6 @@ date: 2024-11-13
 
 ## Juntendo University Faculty of Health and Sports Science, Graduate School of Medicine
 
-## Sports Fluid Dynamics Laboratory, Computational Bioengineering Laboratory
-
 ### Sports Fluid Dynamics Laboratory
 Multimodal Sensor-Based Gait Measurement and Data Analysis: This project aims to measure human gait patterns using various sensors and analyze the data to assess health status and motor functions. The research is expected to provide new insights in the fields of rehabilitation and sports science.
 
@@ -24,4 +22,3 @@ Research on Image/Video Compression Methods Based on Human Visual Characteristic
 ---
 
 &copy; Sports Fluid Dynamics Laboratory, Computational Bioengineering Laboratory
-
