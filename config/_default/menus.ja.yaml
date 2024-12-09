@@ -11,16 +11,13 @@ main:
   - name: メンバー
     url: ja/people
     weight: 30
-  - name: イベント
-    url: ja/event
-    weight: 40
   - name: 論文
     url: ja/publication
     weight: 50
   - name: ギャラリー
     url: ja/tour
     weight: 60
-  - name: 姫野基準
+  - name: 姫野ベンチマーク
     url: ja/himeno_benchmark
     weight: 65
   - name: お問い合せ
