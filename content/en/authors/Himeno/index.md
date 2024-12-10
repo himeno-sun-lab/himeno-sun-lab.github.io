@@ -17,7 +17,7 @@ weight: 100
 superuser: false
 
 # Role/position
-role: Special Professor
+role: Specially Appointed Professor
 
 # Organizations/Affiliations
 organizations:
