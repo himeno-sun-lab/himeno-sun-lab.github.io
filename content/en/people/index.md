@@ -18,7 +18,7 @@ sections:
           - Visitors
           - Alumni
       sort_by: Params.weight
-      sort_descending: true
+      sort_ascending: false
     design:
       show_organizations: true
       show_interests: true
