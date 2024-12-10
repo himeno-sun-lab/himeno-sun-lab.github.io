@@ -11,7 +11,7 @@ sections:
       text: |-
         If you have any questions on entrance examination or research, please contact us via e-mail address below.
 
-      email: himeno.sun@juntendo.ac.jp
+      email: himeno.sun'at'juntendo.ac.jp
       # phone: 888 888 88 88
       address:
         street: 6-8-1 Hinode
