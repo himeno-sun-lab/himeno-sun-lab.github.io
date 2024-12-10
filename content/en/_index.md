@@ -24,7 +24,7 @@ sections:
       user_groups:
         - Principal Investigators
       sort_by: Params.weight
-      sort_ascending: true
+      sort_ascending: false
 
   - block: collection
     content:
