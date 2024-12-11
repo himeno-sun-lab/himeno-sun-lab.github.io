@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Himeno-Sun Labouratory
+        Himeno-Sun Lab
       image:
         filename: welcome.jpg
       text: |
@@ -67,13 +67,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Articles
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: "article"
+        # publication_type: ["article"]
     design:
       view: citation
       columns: '1'
