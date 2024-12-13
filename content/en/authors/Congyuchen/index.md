@@ -1,19 +1,16 @@
 ---
-# Draft
-draft: true
-
 # Display name
-title: Chao Li
+title: Yuchen Cong
 
 # Full name (for SEO)
-first_name: Chao
-last_name: LI
+first_name: Yuchen
+last_name: CONG
 
 # Username (this should match the folder name)
 authors:
-  - Lichao
+  - Congyuchen
 # Order in display
-weight: 15
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
