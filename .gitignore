@@ -8,3 +8,4 @@ assets/jsconfig.json
 
 # user
 Ep*
+*.DS_Store
