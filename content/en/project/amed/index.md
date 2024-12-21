@@ -1,7 +1,5 @@
 ---
 title: "AMED: Functionalize Digital Brain Model by Biological Neural Data"
-layout: "redirect"
-external_url: "https://www.juntendo.ac.jp/academics/faculty/hds/staff/"
 
 summary: This project is a part of Digital Brain 2.0.
 
