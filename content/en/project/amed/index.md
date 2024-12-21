@@ -1,5 +1,7 @@
 ---
 title: "AMED: Functionalize Digital Brain Model by Biological Neural Data"
+externalUrl: "https://himeno-sun-lab.github.io/AMED"
+
 summary: This project is a part of Digital Brain 2.0.
 
 date: 2024-3-31
