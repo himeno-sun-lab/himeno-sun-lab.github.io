@@ -1,6 +1,6 @@
 ---
 title: Himeno Benchmark
-date: 2024/12/8
+date: 2024-12-08
 
 ---
 # Introduction to Himeno Benchmark
