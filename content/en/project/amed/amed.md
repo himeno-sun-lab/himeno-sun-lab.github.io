@@ -1,3 +1,5 @@
+external_url: "https://himeno-sun-lab.github.io/AMED/"
+
 ---
 title: "AMED: Functionalize Digital Brain Model by Biological Neural Data"
 
