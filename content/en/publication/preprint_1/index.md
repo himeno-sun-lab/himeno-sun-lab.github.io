@@ -1,6 +1,6 @@
 ---
 title: "Revolutionizing MRI Data Processing Using FSL: Preliminary Findings with the Fugaku Supercomputer"
-draft: false
+
 authors:
 - Tianxiang Lyu
 - Wataru Uchida
