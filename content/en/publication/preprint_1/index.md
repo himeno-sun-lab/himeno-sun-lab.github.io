@@ -40,15 +40,15 @@ summary: This study used the Fugaku supercomputer to process T1-weighted and dif
 
 #links:
 #- name: Custom Link
-#  url: http://example.org
+  url: https://arxiv.org/abs/2407.11742
 url_pdf: https://arxiv.org/pdf/2407.11742
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -75,7 +75,7 @@ slides: example
 
 
 {{% callout note %}}
-If you need the code, please contact the lab. We will provide the necessary scripts upon request.
+If you need the code, please contact our lab. We will provide the necessary scripts upon request.
 {{% /callout %}}
 <!-- 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
