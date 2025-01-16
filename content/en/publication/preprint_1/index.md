@@ -29,13 +29,7 @@ publication_types: ["article"]
 publication: "arXiv:2407.11742"
 publication_short: "arXiv:2407.11742"
 
-abstract:  The amount of Magnetic resonance imaging data has grown tremendously recently, creating an
- urgent need to accelerate data processing, which requires substantial computational resources and
- time. In this preliminary study, we applied FMRIB Software Library commands on T1-weighted
- and diffusion-weighted images of a single young adult using the Fugaku supercomputer. The tensor
-based measurements and subcortical structure segmentations performed on Fugaku supercomputer
- were highly consistent with those from conventional systems, demonstrating its reliability and
- significantly reduced processing time.
+abstract: The amount of Magnetic resonance imaging data has grown tremendously recently, creating an urgent need to accelerate data processing, which requires substantial computational resources and time. In this preliminary study, we applied FMRIB Software Library commands on T1-weighted and diffusion-weighted images of a single young adult using the Fugaku supercomputer. The tensor-based measurements and subcortical structure segmentations performed on Fugaku supercomputer were highly consistent with those from conventional systems, demonstrating its reliability and significantly reduced processing time.
 
 # Summary. An optional shortened abstract.
 summary: This study used the Fugaku supercomputer to process T1-weighted and diffusion-weighted MRI images, achieving results consistent with conventional systems. The supercomputer significantly reduced processing time while maintaining reliability.
