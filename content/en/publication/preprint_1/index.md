@@ -38,7 +38,7 @@ based measurements and subcortical structure segmentations performed on Fugaku s
  significantly reduced processing time.
 
 # Summary. An optional shortened abstract.
-summary:This study used the Fugaku supercomputer to process T1-weighted and diffusion-weighted MRI images, achieving results consistent with conventional systems. The supercomputer significantly reduced processing time while maintaining reliability.
+summary: This study used the Fugaku supercomputer to process T1-weighted and diffusion-weighted MRI images, achieving results consistent with conventional systems. The supercomputer significantly reduced processing time while maintaining reliability.
 
 #tags:
 #- Source Themes
