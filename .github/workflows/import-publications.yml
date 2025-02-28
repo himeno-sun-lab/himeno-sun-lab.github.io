@@ -10,7 +10,7 @@ permissions:
 on:
   push:
     branches: ['main']
-    paths: ['paths:content/en/publications/journal-artical/cite.bib']
+    paths: ['publications.bib']
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
