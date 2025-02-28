@@ -11,3 +11,4 @@ Ep*
 *.DS_Store
 !.gitignore
 .hugo_build.lock
+Template*
