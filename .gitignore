@@ -1,13 +1,6 @@
-# IDEs
-.idea/
-
-# Hugo
-/resources/
+.DS_Store
+resources/
 public/
-assets/jsconfig.json
-
-# user
-Ep*
-*.DS_Store
 !.gitignore
-.hugo_build.lock
+!.github/
+!.gitsubmodules
