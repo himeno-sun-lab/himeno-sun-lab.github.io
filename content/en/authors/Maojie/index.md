@@ -17,7 +17,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Master Student
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -78,4 +78,4 @@ user_groups:
   - Students
 ---
 
-Jie MAO is a master student in 2nd year in the Himeno-Sun Lab.
+Jie MAO is a doctoral student in 1st year in the Himeno-Sun Lab.

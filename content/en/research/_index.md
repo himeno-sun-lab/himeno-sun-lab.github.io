@@ -1,6 +1,6 @@
 ---
 title: "Research Themes"
-date: 2024-11-13
+showDate: false
 ---
 
 ## Juntendo University Faculty of Health and Sports Science, Graduate School of Medicine
