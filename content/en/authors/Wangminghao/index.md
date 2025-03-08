@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Minghao Wang
-draft: true
+draft: false
 
 # Full name (for SEO)
 first_name: Minghao
