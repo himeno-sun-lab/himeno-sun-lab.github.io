@@ -20,7 +20,7 @@ main:
     url: publication
     weight: 50
   - name: Dev
-    url: https://himeno-sun-lab.gitub.io/devPage
+    url: https://himeno-sun-lab.github.io/devPage
     weight: 60
   - name: Himeno Benchmark
     url: himeno_benchmark
