@@ -27,7 +27,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include brain simulation and image and video compression.
 
 interests:
   - Computational Neuroscience
@@ -78,4 +78,4 @@ email: ''
 user_groups:
   - Principal Investigators
 ---
-
+Zhe SUN is one of principal investigators in Himeno-Sun Lab.
