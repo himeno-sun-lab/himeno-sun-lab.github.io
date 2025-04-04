@@ -17,7 +17,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Master Student
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
