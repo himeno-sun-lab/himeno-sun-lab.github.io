@@ -72,7 +72,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  -Alumni
+  - Alumni
 ---
 
 Xunyang ZHANG is now a doctoral student in 1nd year in Radiology Course affilated in Graduate School of Medicine, Juntendo University.
