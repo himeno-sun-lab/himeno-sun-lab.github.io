@@ -2,7 +2,7 @@
 title: Congratulations to Our Graduates.
 date: 2026-03-14
 authors:
-  - Sunzhe
+  - Changziqing
   - Wangminghao
 tags: ['News']
 ---
