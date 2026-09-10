@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Our Graduates.
-date: 2025-03-14
+date: 2026-03-14
 authors:
   - Sunzhe
   - Wangminghao
