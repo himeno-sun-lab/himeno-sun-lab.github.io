@@ -53,9 +53,9 @@ If you have any questions for need for further assistance, please feel free to c
 |Size|Windows|Mac|
 |---|---|---|
 |L *(512 x 256 x 256)*|[himenobmtxp_l.exe](win-mac/himenobmtxp_l_exe.zip)|-|
-|M *(256 x 128 x 128)*|[himenobmtxp_m.exe](win-mac/himenobmtxp_m_exe.zip)|[himenobmt98xp_m_mac](win-mac/himenobmt98xp_m_mac.zip)|
-|S *(128 x 64 x 64)*|[himenobmtxp_s.exe](win-mac/himenobmtxp_s_exe.zip)|[himenobmt98xp_l_mac](win-mac/himenobmt98xp_s_mac.zip)|
-|XS|-|[himenobmt98xp_ss_mac](win-mac/himenobmt98xp_ss_mac.zip)|
+|M *(256 x 128 x 128)*|[himenobmtxp_m.exe](win-mac/himenobmtxp_m_exe.zip)|[himenobmtxp_m_mac](win-mac/himenobmtxp_m_mac.zip)|
+|S *(128 x 64 x 64)*|[himenobmtxp_s.exe](win-mac/himenobmtxp_s_exe.zip)|[himenobmtxp_l_mac](win-mac/himenobmtxp_s_mac.zip)|
+|XS|-|[himenobmtxp_ss_mac](win-mac/himenobmtxp_ss_mac.zip)|
 <br>
 
 <div style="text-align: center">
